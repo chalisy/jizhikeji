@@ -1,0 +1,6 @@
+server.port: 8109
+spring:
+  redis:
+    host: r-bp172bdb22cbfe34.redis.rds.aliyuncs.com
+    port: 6379
+    password: Zjzc2018
